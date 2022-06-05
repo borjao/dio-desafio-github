@@ -1,0 +1,7 @@
+Link Download git = https://git-scm.com/downloads
+Git bash = O que é o Git Bash?
+O Git Bash é o aplicativo para ambientes do Microsoft Windows que oferece a camada de emulação para a experiência de linha de comando Git.
+Git init = git init é um comando único que você usa durante a configuração inicial de um novo repositório
+git push = O comando git push é usado para enviar o conteúdo do repositório local para um repositório remoto
+git add = O comando git add adiciona uma alteração no diretório ativo à área de staging
+git status = O comando git status exibe as condições do diretório de trabalho e da área de staging
